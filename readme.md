@@ -1,5 +1,5 @@
 # HTML style guide
-- h1 tag per page only once
+- [h1 tag per page only once](#h1-tag-per-page-only-once)
 
 
 ## h1 tag per page only once 
