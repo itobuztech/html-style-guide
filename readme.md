@@ -66,7 +66,7 @@ This is required for lazy loading. you can not use pseudo element for icon and b
 ### Code splitting for stylesheet <a id="code-7"></a>
 Code splitting is very important for re-use and maintain large codebase. So for that purpose we will use section specific styles into different stylesheet.
 
-### H1 tag per page only once  
+### H1 tag per page only once  <a id="seo-1"></a>
 
 It is mandatory to use h1 tag only once per page. So it is good practice to avoid nested h1 styles. So that someone can alter with different heading tag when needed.
 
